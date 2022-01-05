@@ -1,0 +1,11 @@
+SET DEFINE OFF
+PROMPT migration starts
+/*
+Deployment: SPI-100
+*/
+@C:\git\spi\patches\V2_SPI100_20220105\pages\f518_page_260.sql
+PRMOPT f518_page_260.sql is migrated
+@C:\git\spi\patches\V2_SPI100_20220105\pages\f518_page_310.sql
+PRMOPT f518_page_260.sql is migrated
+@C:\git\spi\patches\V2_SPI100_20220105\procedures\Validate_parties.sql
+PRMOPT validate_parties.sql is migrated

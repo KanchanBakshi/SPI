@@ -27,7 +27,7 @@ prompt APPLICATION 518 - Single Point Ingestion (SPI)
 -- Application Export:
 --   Application:     518
 --   Name:            Single Point Ingestion (SPI)
---   Date and Time:   07:27 Wednesday November 17, 2021
+--   Date and Time:   08:00 Wednesday January 5, 2022
 --   Exported By:     SCHOPRA
 --   Flashback:       0
 --   Export Type:     Page Export
